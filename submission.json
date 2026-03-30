@@ -1,0 +1,7 @@
+{
+  "prompt": "A surreal image of planet Earth shaped like human lungs, one side filled with thick black smoke and decaying, the other side clean and blue, symbolizing rising CO2 emissions and environmental damage, dramatic lighting, cinematic, highly detailed, emotional, no text, no labels, no charts",
+  "model": "Chatly AI Auto (multi-model image generation)",
+  "dataset_name": "Global CO2 Emissions",
+  "dataset_url": "https://ourworldindata.org/co2-emissions",
+  "insight": "Rising CO2 emissions are suffocating the planet like damaged lungs"
+}
